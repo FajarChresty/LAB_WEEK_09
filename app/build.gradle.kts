@@ -49,6 +49,7 @@ dependencies {
     implementation("androidx.compose.ui:ui:1.5.3")
     implementation("androidx.compose.ui:ui-tooling-preview:1.5.3")
     implementation("androidx.compose.material3:material3:1.1.2")
+    implementation("androidx.navigation:navigation-compose:2.7.4")
     debugImplementation("androidx.compose.ui:ui-tooling:1.5.3")
     debugImplementation("androidx.compose.ui:ui-test-manifest:1.5.3")
 }
